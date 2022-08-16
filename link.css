@@ -1,0 +1,200 @@
+body {
+  background-color: #89CFF0;
+  margin: 0px;
+  padding: 0px
+}
+
+.toppart {
+  background-color: black;
+  width: 100%;
+  height: 50px;
+  padding: 0px
+}
+
+.Home {
+  color: white;
+  margin: 0px;
+  font-size: 30px;
+  position: absolute;
+  left: 100px;
+  top: 5px;
+  transition: 0.5s
+}
+
+.coolicon {
+  margin: 0px;
+  height: 50px;
+  width: 50px;
+  position: absolute;
+  left: 20px
+}
+
+.textfortoppart {
+  color: white;
+  text-decoration: none;
+}
+
+.textgone {
+  text-decoration: none;
+}
+
+.Links {
+  color: white;
+  margin: 0px;
+  font-size: 30px;
+  position: absolute;
+  top: 5px;
+  left: 200px;
+  transition: 0.5s
+}
+
+.CopyAndPaste {
+  color: white;
+  margin: 0px;
+  font-size: 30px;
+  position: absolute;
+  top: 5px;
+  left: 290px;transition: 0.5s
+}
+
+.cooltext {
+  color: white;
+  margin: 0px;
+  font-size: 30px;
+  position: absolute;
+  top: 5px;
+  left: 850px
+}
+
+
+.Imporaintlink{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 60px;
+  position: absolute;
+  top: 100px;
+  left: 450px;
+  border-radius: 10px;
+}
+.Startinglink{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 50px;
+  position: absolute;
+  top: 200px;
+  left: 510px;
+  border-radius: 10px;
+}
+.link{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 290px;
+  left: 590px;
+  border-radius: 10px;
+}
+.link1{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 350px;
+  left: 520px;
+  border-radius: 10px;
+
+}
+.link2{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 410px;
+  left: 550px;
+  border-radius: 10px;
+
+}
+
+.Endinglink{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 50px;
+  position: absolute;
+  top: 500px;
+  left: 510px;
+  border-radius: 10px;
+}
+
+.link3{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 580px;
+  left: 460px;
+  border-radius: 10px;
+
+}
+
+.link4{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 640px;
+  left: 520px;
+  border-radius: 10px;
+
+}
+
+.Otherusefulllink{
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 50px;
+  position: absolute;
+  top: 740px;
+  left: 460px;
+  border-radius: 10px;
+}
+
+.link5{
+
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 820px;
+  left: 420px;
+  border-radius: 10px;
+}
+.link6{
+
+  background-color: #c1e5f5;
+  color: black;
+  margin: 0px;
+  font-size: 40px;
+  position: absolute;
+  top: 900px;
+  left: 420px;
+  border-radius: 10px;
+}
+
+.Home:hover {
+  transform: scale(1.5);
+}
+.Links:hover {
+  transform: scale(1.5);
+}
+.CopyAndPaste:hover {
+  transform: scale(1.1);
+}
